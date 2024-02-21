@@ -1,0 +1,1 @@
+{"name":"Local: _344_Reverse_String","url":"d:\\Workspace\\DSA LEETCODE\\_344_Reverse_String.py","tests":[{"id":1708092889353,"input":"[\"h\",\"e\",\"l\",\"l\",\"o\"]","output":"[\"o\",\"l\",\"l\",\"e\",\"h\"]"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Workspace\\DSA LEETCODE\\_344_Reverse_String.py","group":"local","local":true}
